@@ -99,7 +99,7 @@ Ensure you have the following installed:
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:5173` to see the application running.
+   Navigate to `[https://sensational-sunburst-370228.netlify.app/]` to see the application running.
 
 ### Build for Production
 
