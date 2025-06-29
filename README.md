@@ -99,7 +99,7 @@ Ensure you have the following installed:
    ```
 
 4. **Open your browser**
-   Navigate to `[Project URL](https://sensational-sunburst-370228.netlify.app/) to see the application running
+   Navigate to [Project URL](https://sensational-sunburst-370228.netlify.app/) to see the application running
 ### Build for Production
 
 ```bash
